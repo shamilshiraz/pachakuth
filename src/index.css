@@ -7,3 +7,17 @@
 ::-webkit-scrollbar{
   display: none;
 }
+
+@font-face {
+  font-family: "overpass";
+  src: url("../public/OverpassMono-Medium.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "futura";
+  src: url("../public/FuturaCyrillicMedium.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+}
